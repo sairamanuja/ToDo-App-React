@@ -20,3 +20,12 @@ A simple yet powerful task management application built with React. Organize you
    ```bash
    git clone https://github.com/sairamanuja/ToDo-App-React.git
    cd ToDo-App-React****
+
+2. **Install dependencies**:
+   ```bash
+   npm install
+
+3. **Start the app**:
+    ```bash
+   npm start
+   
