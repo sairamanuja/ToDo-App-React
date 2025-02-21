@@ -27,5 +27,6 @@ A simple yet powerful task management application built with React. Organize you
 
 3. **Start the app**:
     ```bash
-   npm start
+   npm run dev
+    
    
