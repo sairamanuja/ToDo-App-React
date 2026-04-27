@@ -14,6 +14,7 @@ A simple yet powerful task management application built with React. Organize you
 - **Edit & Delete**: Modify existing tasks or remove them entirely. 
 - **Filter Tasks**: View all, active, or completed tasks.
 - **Responsive Design**: Works seamlessly on desktop and mobile devices.
+- 
 
 ## Installation
 
